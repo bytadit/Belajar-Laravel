@@ -1,6 +1,5 @@
 ## Ini adalah Repository Hasil Belajar untuk Tutorial Laravel 8 dari WPU UNPAS
-<br>
-Requirements:
+### Requirements:
 1. VSCode
 2. Git
 3. Browser
@@ -11,9 +10,7 @@ Requirements:
 8. Laravel Sluggable (https://github.com/cviebrock/eloquent-sluggable)
 9. Laravel Generators (https://github.com/laracademy/generators)
 10. Xdebug (Optional)
-<br>
-<br>
-VSCode Extensions:
+### VSCode Extensions:
 1. Laravel Artisan
 2. Laravel Blade
 3. Laravel Blade Formatter
@@ -21,6 +18,5 @@ VSCode Extensions:
 5. Laravel Blade Wrapper
 6. Laravel Snippets 
 7. PHP Debug (Optional)
-<br>
-Playlist Belajar:
+### Playlist Belajar:
 https://www.youtube.com/watch?v=HqAMb6kqlLs&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2
