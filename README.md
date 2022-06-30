@@ -18,5 +18,19 @@
 5. Laravel Blade Wrapper
 6. Laravel Snippets 
 7. PHP Debug (Optional)
+
+### Installation Steps
+1. Penuhi semua requirements
+2. Masuk ke folder project laravelmu
+3. clone this repo : ```git clone https://github.com/bytadit/belajar-laravel.git```
+4. ```cd belajar-laravel/coba-laravel```
+5. ```cp .env.example .env```, sesuaikan .nv dengan pengaturan mysql yg kamu miliki
+6. ```php artisan key:generate```
+7. ```composer install```
+8. ```composer update```
+9. buat database baru, beri nama sesuai apa yang ada di .env
+10. ```php artisan migrate:fresh --seed```
+11. ```php artisan serve``` or you can use valet to access it online with a domain
+
 ### Playlist Belajar:
 https://www.youtube.com/watch?v=HqAMb6kqlLs&list=PLFIM0718LjIWiihbBIq-SWPU6b6x21Q_2
